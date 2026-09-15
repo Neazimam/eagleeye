@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="eagleguard/eagleguard.vcxproj" Id="202278cf-974c-4586-bc40-930e655886d7" />
+</Solution>

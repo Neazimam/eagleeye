@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cinema 4d c++ project\\eagleguard\\eagleguard\\pch.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\cinema 4d c++ project\\eagleguard\\eagleguard\\pch.h",
+            "d:\\cinema 4d c++ project\\eagleguard\\eagleguard\\framework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

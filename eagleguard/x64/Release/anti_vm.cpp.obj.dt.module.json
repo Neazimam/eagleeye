@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\anti_vm.obj",
+            "outputs": [
+                "x64\\Release\\anti_vm.cpp.obj.dt.module.json",
+                "x64\\Release\\anti_vm.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

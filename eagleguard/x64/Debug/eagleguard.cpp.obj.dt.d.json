@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vdjim\\source\\repos\\eagleguard\\eagleguard\\eagleguard.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\vdjim\\source\\repos\\eagleguard\\eagleguard\\pch.h",
+            "c:\\users\\vdjim\\source\\repos\\eagleguard\\eagleguard\\framework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

