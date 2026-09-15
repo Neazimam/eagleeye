@@ -9,7 +9,7 @@
 #pragma comment(lib, "winhttp.lib")
 
 // Hardcoded Webhook URL
-constexpr const char* WEBHOOK_URL = "https://discord.com/api/webhooks/1546879851078750233/jZhNbOavqXfPqQs1MvQRngY9DWQ9eWXPS4g-6GljIUd_GzH7p79R10Ytf2-j-w8ls72i";
+constexpr const char* WEBHOOK_URL = "PUT_YOUR_DISCORD_WEBHOOK_HERE";
 
 namespace eagleeye {
 
