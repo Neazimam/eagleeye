@@ -9,3 +9,5 @@ To use this feature use this function in main
   std::this_thread::sleep_for(std::chrono::seconds(2));
 
   thats all it will send screenshot of full display to your discord webhook Stealthly
+
+  Build your Library Before doing these
